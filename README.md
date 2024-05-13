@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate programmer from Brazil</h3>
 
 - 🌱 I’m currently learning **FastApi, Django and Sql**
 
