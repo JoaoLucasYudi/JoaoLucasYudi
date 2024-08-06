@@ -30,7 +30,7 @@ Estou buscando minha primeira vaga como desenvolvedor. Embora eu ainda não tenh
 
 - **Email:** [joaolucashanda@gmail.com](mailto:joaolucashanda@gmail.com)
 - **LinkedIn:** [João Lucas Handa](https://www.linkedin.com/in/joao-lucas-handa)
-- **Instagram:** (https://www.instagram.com/_jlucaz/)
+- **Instagram:** [_jlucaz](https://www.instagram.com/_jlucaz/)
 
 ---
 
