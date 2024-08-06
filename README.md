@@ -18,13 +18,9 @@ Sou um desenvolvedor focado no Back-end, apaixonado por Python. Estou em busca d
 
 ## Projetos Destacados
 
-### [Projeto Python com FastAPI](https://github.com/seu-usuario/projeto-python-fastapi)
+### [Projeto Python com FastAPI](https://github.com/JoaoLucasYudi/auth-fastapi)
 - **Descrição:** Um projeto backend desenvolvido com FastAPI, utilizando PostgreSQL, Docker, autenticação JWT e CryptContext.
 - **Tecnologias:** FastAPI, PostgreSQL, Docker, JWT, CryptContext
-
-### [Outro Projeto Destacado](https://github.com/seu-usuario/outro-projeto)
-- **Descrição:** Breve descrição do projeto e suas funcionalidades.
-- **Tecnologias:** Tecnologias utilizadas no projeto.
 
 ## Experiência
 
