@@ -1,8 +1,7 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou João Lucas! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:seu-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/joao-lucas-handa)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:joaolucashanda@gmail.com)
 
 ## Sobre Mim
 
