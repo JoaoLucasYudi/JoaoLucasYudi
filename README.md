@@ -1,46 +1,39 @@
-# Olá, eu sou João Lucas! 👋
+# Olá, eu sou João Lucas Handa! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/joao-lucas-handa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-lucas-handa)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:joaolucashanda@gmail.com)
 
 ## Sobre Mim
 
-Sou apaixonado por tecnologia, especialmente em desenvolvimento backend com Python e Java. Tenho experiência em modelagem de banco de dados, trabalhando com MySQL e Oracle. Adoro resolver problemas complexos e criar soluções eficientes.
+Sou um desenvolvedor focado no Back-end, apaixonado por Python. Estou em busca da minha primeira oportunidade de trabalho na área de desenvolvimento. Adoro aprender novas tecnologias e enfrentar desafios complexos.
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens:** Python, Java
-- **Banco de Dados:** PostgreSQL, MySQL, Oracle
-- **Frameworks:** FastAPI, SQLAlchemy, Alembic
-- **Ferramentas de Desenvolvimento:** Docker, DBeaver
-- **Autenticação e Segurança:** JWT, CryptContext
-- **Controle de Versão:** Git, GitHub
+- **Linguagens:** Python, Java, JavaScript
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Frameworks:** FastAPI, React
+- **Ferramentas de Desenvolvimento:** Docker
+- **Web:** HTML, CSS
+- **Metodologias:** Metodologia Ágil
 
 ## Projetos Destacados
 
 ### [Projeto Python com FastAPI](https://github.com/seu-usuario/projeto-python-fastapi)
-- **Descrição:** Um projeto backend desenvolvido com FastAPI, utilizando PostgreSQL, Docker, DBeaver, Alembic, SQLAlchemy, autenticação JWT e CryptContext.
+- **Descrição:** Um projeto backend desenvolvido com FastAPI, utilizando PostgreSQL, Docker, autenticação JWT e CryptContext.
 - **Tecnologias:** FastAPI, PostgreSQL, Docker, JWT, CryptContext
 
 ### [Outro Projeto Destacado](https://github.com/seu-usuario/outro-projeto)
 - **Descrição:** Breve descrição do projeto e suas funcionalidades.
 - **Tecnologias:** Tecnologias utilizadas no projeto.
 
-## Experiência Profissional
+## Experiência
 
-- **Empresa X (Ano - Presente)**
-  - Cargo e responsabilidades.
-  - Tecnologias utilizadas.
-
-- **Empresa Y (Ano - Ano)**
-  - Cargo e responsabilidades.
-  - Tecnologias utilizadas.
+Estou buscando minha primeira vaga como desenvolvedor. Embora eu ainda não tenha experiência profissional, tenho trabalhado em vários projetos pessoais que me permitiram adquirir habilidades práticas em diversas tecnologias.
 
 ## Contato
 
-- **Email:** [seu-email](mailto:seu-email)
-- **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
+- **Email:** [joaolucashanda@gmail.com](mailto:joaolucashanda@gmail.com)
+- **LinkedIn:** [João Lucas Handa](https://www.linkedin.com/in/joao-lucas-handa)
 
 ---
 
