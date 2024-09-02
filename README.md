@@ -5,12 +5,12 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor focado no Back-end, apaixonado por Python. Estou em busca da minha primeira oportunidade de trabalho na área de desenvolvimento. Adoro aprender novas tecnologias e enfrentar desafios complexos.
+Me chamo João Lucas e atualmente estou cursando Engenharia de Software na FIAP. Sou desenvolvedor backend em início de carreira, com uma grande paixão por Python!
 
 ## Tecnologias e Ferramentas
 
 - **Linguagens:** Python, Java, JavaScript
-- **Banco de Dados:** PostgreSQL, MySQL
+- **SGBDs:** MySQL, PostgreSQL, Oracle
 - **Frameworks:** FastAPI, React
 - **Ferramentas de Desenvolvimento:** Docker
 - **Web:** HTML, CSS
