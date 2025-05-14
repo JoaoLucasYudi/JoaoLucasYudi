@@ -1,11 +1,11 @@
-# Olá, eu sou João Lucas Handa! 👋
+# Olá, eu sou João Lucas Yudi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-lucas-handa)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:joaolucashanda@gmail.com)
 
 ## Sobre Mim
 
-Me chamo João Lucas e atualmente estou cursando Engenharia de Software na FIAP. Sou desenvolvedor backend em início de carreira, com uma grande paixão por Python!
+Me chamo João Lucas e atualmente estou cursando Engenharia de Software na FIAP. Sou analista de dados em início de carreira, com uma grande paixão por Python!
 
 ## Tecnologias e Ferramentas
 
